@@ -5,3 +5,8 @@ I made this because I sick and tired of scaling up every recipe by hand. On top 
 So I figured this would be simple to make + personally useful.
 
 Takes in a text file for input, outputs scaled up text file. Amounts should be before the item. Supports whole numbers, fractions, and mixed numbers. You can see some input examples in the repo.
+
+# Command line usage is as follows:
+<scale (>0)> <path to input> < -h or -t >
+-h is for sending output to exe dir
+-t is for sending output to input dir
